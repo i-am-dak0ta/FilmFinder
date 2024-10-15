@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FilmFinder</string>
+
+    <!-- General Strings -->
+    <string name="try_again">Повторить</string>
+    <string name="search">Поиск</string>
+    <string name="viewing">Просмотр</string>
+    <string name="back">Назад</string>
+    <string name="poster">Постер</string>
+    <string name="rating">Рейтинг</string>
+    <string name="release_years">Год выпуска</string>
+    <string name="genres">Жанры</string>
+    <string name="countries">Страны</string>
+    <string name="description">Описание</string>
+    <string name="image">Картинка</string>
+
+    <!-- Pagination -->
+    <string name="go_to_first_page">В начало</string>
+    <string name="go_to_previous_page">Назад</string>
+    <string name="go_to_next_page">Вперед</string>
+    <string name="go_to_last_page">В конец</string>
+
+    <!-- Film Details -->
+    <string name="no_alternative_title">Нет альтернативного названия</string>
+    <string name="no_genres_available">Нет жанров</string>
+    <string name="no_countries_available">Нет стран</string>
+
+    <!-- Error Messages -->
+    <string name="error">Ошибка</string>
+    <string name="error_loading_data">Ошибка при загрузке данных</string>
+    <string name="error_no_images">Нет изображений</string>
+    <string name="error_no_reviews">Нет отзывов</string>
+</resources>
